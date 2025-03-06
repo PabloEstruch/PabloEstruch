@@ -1,12 +1,11 @@
-<h1 align="center">Hi , I'm Pablo Estruch <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, soy Pablo Estruch <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-# Hola, soy Pablo Martín Estruch 👋
 
 Soy un profesional interesado en áreas como análisis de datos y Power BI. Actualmente, estoy desarrollando proyectos para mejorar mis habilidades técnicas y trabajar en proyectos que me permitan aplicar mis conocimientos de herramientas como Power BI, y más.
 
 ## 🚀 Sobre mí
 
-- 📍 Ubicación: Argentina
+- 📍 Ubicación: Argentina, Mendoza
 - 🌱 Actualmente profundizando sobre visualizaciones en Power Bi
 - 📬 Puedes contactarme en: pablo.m.estruch@gmail.com
 
