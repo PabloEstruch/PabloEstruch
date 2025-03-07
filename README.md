@@ -18,11 +18,11 @@ Soy un profesional interesado en áreas como análisis de datos y Power BI. Actu
 
 ### Dashboard de Adventure Works Cycles
 Un proyecto en Power BI con visualizaciones clave sobre el rendimiento de ventas y datos de la empresa. Utilicé temas y colores específicos como el naranja para crear una presentación atractiva y funcional.  
-[Enlace al repositorio](enlace-del-repositorio)
+[Enlace al repositorio](https://github.com/PabloEstruch/Adventure_Works)
 
 ### Análisis de COVID-19
 Análisis e informes sobre la evolución de la pandemia, donde empleé Power BI y técnicas de análisis de datos para generar dashboards y gráficos informativos.  
-[Enlace al repositorio](enlace-del-repositorio)
+[Enlace al repositorio](https://github.com/PabloEstruch/Biogenesis)
 
 ## 🌍 Conéctame
 
